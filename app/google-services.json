@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611778549995",
+    "firebase_url": "https://uber-demo-d306c.firebaseio.com",
+    "project_id": "uber-demo-d306c",
+    "storage_bucket": "uber-demo-d306c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611778549995:android:4110d1d8eb4e248b",
+        "android_client_info": {
+          "package_name": "com.empti.uberdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611778549995-fljnf2esajmvk9mv7abvgegl6seifb9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.empti.uberdemo",
+            "certificate_hash": "860db65bb7dcd35d292c72c25b6e4620746832f8"
+          }
+        },
+        {
+          "client_id": "611778549995-40tacctlse4m2ufe2qhhoo9pq26t52oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGqGwYorx36UR-Q_6IBH562Ttklq9-Ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611778549995-40tacctlse4m2ufe2qhhoo9pq26t52oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
